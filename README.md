@@ -1,7 +1,7 @@
 ## Instruction to run the program 
 
 # Description
-The intend of this project is to meet all the requirements presented in the Data Engineering Task that was presented to Dražen Matijević.
+The intend of this project is to create Data Engineering Task.
 
 Presented Requirements:
 1. Create ER diagram
